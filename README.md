@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @Palkinsirohi
-- 👀 I’m interested in DBMS,HTML,CSS,SQL,data engineer.
-- 🌱 I’m currently learning DBMS,JAVA. 
-- 💞️ I’m looking to collaborate on projects related to Dbms.
-- 📫 Reach me via linkedin mentioned in my profile. 
-- 😄 Pronouns: she/her
+# 👋 Hi, I'm Palkin Sirohi
 
-<!---
-Palkinsirohi/Palkinsirohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech in Computer Engineering    
+💻 Web Developer Intern @ QuoreB2B | Ex-Data Analyst @ Trigyn Technologies  
+
+## 🛠️ Skills  
+**Languages:** Python, Java, SQL, C++  
+**Web:** HTML, CSS, React.js, Tailwind, Next.js  
+**Data & ML:** Power BI, Pandas, Matplotlib, TensorFlow  
+**Tools:** GitHub, VS Code, Jupyter  
+
+## 📁 Projects  
+- **Portfolio Website** – React + Tailwind, fast and responsive  
+- **Brain Tumor Detection** – CNN model with 94% accuracy  
+- **Face Recognition System** – OpenCV-based real-time solution  
+
+## 📫 Contact  
+📧 palkinsirohi2011@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/palkin-sirohi-8ab36624a) | 🔗 [GitHub](https://github.com/palkinsirohi)  
+😄 Pronouns: she/her
