@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Palkin Sirohi
 
 🎓 B.Tech in Computer Engineering    
-💻 Web Developer Intern @ QuoreB2B | Ex-Data Analyst @ Trigyn Technologies  
+💻 Software Developer Intern @ QuoreB2B | Ex-Data Analyst @ Trigyn Technologies  
 
 ## 🛠️ Skills  
 **Languages:** Python, Java, SQL, C++  
