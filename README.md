@@ -1,7 +1,7 @@
 <!-- GITHUB README FOR PALKIN SIROHI -->
 
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#00bcd4;">Palkin Sirohi</span>
+  Hello 👋, I'm <span style="color:#00bcd4;">Palkin Sirohi</span>
 </h1>
 
 <h3 align="center">
