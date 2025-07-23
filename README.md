@@ -1,5 +1,5 @@
 <!-- GITHUB README FOR PALKIN SIROHI -->
-
+![logo](https://github.com/Palkinsirohi/Palkinsirohi/blob/main/readme.png)
 <h1 align="center">
   Hello 👋, I'm <span style="color:#00bcd4;">Palkin Sirohi</span>
 </h1>
